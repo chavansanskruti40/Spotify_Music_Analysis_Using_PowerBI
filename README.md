@@ -35,5 +35,5 @@ The dataset used for this project is the "Spotify Most Streamed Songs 2023 Datas
 
 ### Final Insights
 
-Creating this interactive dashboard was an enriching experience that honed my skills in data visualization, data analysis, and Power BI. The use of various visuals not only makes the data more engaging but also allows for a deeper understanding of Spotify's vast music landscape. I look forward to applying these skills to more projects and exploring new ways to turn data into actionable insights.
+Creating this interactive dashboard was an enriching experience that honed my skills in data visualization and Power BI. The use of various visuals not only makes the data more engaging but also allows for a deeper understanding of Spotify's vast music landscape. I look forward to applying these skills to more projects and exploring new ways to turn data into actionable insights.
 
